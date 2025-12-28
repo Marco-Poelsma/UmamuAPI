@@ -1,0 +1,21 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Inspiration",
+  "type": "object",
+  "properties": {
+    "id": {
+      "type": "integer"
+    },
+    "name": {
+      "type": "string"
+    },
+    "sparks": {
+      "type": "array",
+      "items": {
+        "$ref": "./spark.schema.json"
+      }
+    }
+  },
+  "required": ["id", "name", "sparks"],
+  "additionalProperties": false
+}
