@@ -1,0 +1,18 @@
+{
+    "sparks": [
+        {
+            "id": 0,
+            "name": "Speed",
+            "rarity": 3,
+            "description": "A spark that increases speed.",
+            "type": "stat"
+        },
+        {
+            "id": 1,
+            "name": "Turf",
+            "rarity": 3,
+            "description": "A spark that increases turf aptitude.",
+            "type": "aptitude"
+        }
+    ]
+}

@@ -1,4 +1,6 @@
 {
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$data": "/data/spark.data.json",
   "spark": {
     "id": {
       "type": "integer",
@@ -14,7 +16,7 @@
     "rarity": {
       "type": "integer",
       "min": 1,
-      "max": 9,
+      "max": 3,
       "nullable": false
     },
     "description": {

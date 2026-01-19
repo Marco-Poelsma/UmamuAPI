@@ -1,27 +1,51 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
+  "$data": "/data/umamusume.data.json",
   "title": "Umamusume",
   "type": "object",
   "properties": {
     "id": {
-      "type": "integer"
+      "type": "integer",
+      "autoIncrement": true,
+      "primaryKey": true,
+      "nullable": false
     },
     "name": {
-      "type": "string"
+      "type": "string",
+      "autoIncrement": false,
+      "primaryKey": false,
+      "nullable": false
     },
     "sparks": {
       "type": "array",
       "items": {
         "$ref": "./spark.schema.json"
-      }
+      },
+      "autoIncrement": false,
+      "primaryKey": false,
+      "nullable": false
     },
-    "inspirations": {
-      "type": "array",
-      "items": {
-        "$ref": "./inspiration.schema.json"
-      }
+    "inspiration_1": {
+      "type": "integer",
+      "autoIncrement": false,
+      "primaryKey": false,
+      "nullable": false
+    },
+    "inspiration_2": {
+      "type": "integer",
+      "autoIncrement": false,
+      "primaryKey": false,
+      "nullable": false
+    },
+    "favourite": {
+      "type": "boolean",
+      "autoIncrement": false,
+      "primaryKey": false,
+      "nullable": false
     }
   },
-  "required": ["id", "name", "sparks", "inspirations"],
+  "required": ["id", "name", "sparks", "inspiration_1", "inspiration_2", "favourite"],
   "additionalProperties": false
 }
+
+ 
