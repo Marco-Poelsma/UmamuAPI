@@ -3,21 +3,21 @@
     {
       "id": 0,
       "name": "Special Week",
-      "sparks": [0, 1],
+      "sparks": [{"spark": 0, "rarity": 9}, {"spark": 1, "rarity": 1}],
       "inspiration_id_1": 1,
       "inspiration_id_2": 2
     },
     {
       "id": 1,
       "name": "Silence Suzuka",
-      "sparks": [0, 1],
+      "sparks": [{"spark": 0, "rarity": 9}, {"spark": 1, "rarity": 9}],
       "inspiration_id_1": 0,
       "inspiration_id_2": 2
     },
     {
       "id": 2,
       "name": "Tokai Teio",
-      "sparks": [0, 1],
+      "sparks": [{"spark": 0, "rarity": 9}, {"spark": 1, "rarity": 9}],
       "inspiration_id_1": 0,
       "inspiration_id_2": 1
     }

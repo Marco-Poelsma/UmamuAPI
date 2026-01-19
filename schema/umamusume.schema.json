@@ -19,7 +19,18 @@
     "sparks": {
       "type": "array",
       "items": {
-        "$ref": "./spark.schema.json"
+        "type": "object",
+        "properties": {
+          "spark": {
+            "type": "object",
+            "$ref": "spark.schema.json/spark",
+            "nullable": false
+          },
+          "rarity": {
+            "type": "integer",
+            "nullable": false
+          }
+        }
       },
       "autoIncrement": false,
       "primaryKey": false,
