@@ -2,22 +2,22 @@
   "properties:": [
     {
       "id": 0,
-      "name": "Special Week",
-      "sparks": [{"spark": 0, "rarity": 9}, {"spark": 1, "rarity": 1}],
+      "name": "Oguri Cap",
+      "sparks": [{"spark": 2, "rarity": 1}, {"spark": 3, "rarity": 2}, {"spark": 4, "rarity": 2}, {"spark": 5, "rarity": 2}, {"spark": 6, "rarity": 1}, {"spark": 7, "rarity": 2}, {"spark": 8, "rarity": 1}, {"spark": 9, "rarity": 2}, {"spark": 10, "rarity": 1}, {"spark": 11, "rarity": 1}, {"spark": 12, "rarity": 2}],
       "inspiration_id_1": 1,
       "inspiration_id_2": 2
     },
     {
       "id": 1,
-      "name": "Silence Suzuka",
-      "sparks": [{"spark": 0, "rarity": 9}, {"spark": 1, "rarity": 9}],
+      "name": "Matikanefukukitaru",
+      "sparks": [{"spark": 0, "rarity": 3}, {"spark": 13, "rarity": 2}, {"spark": 14, "rarity": 1}, {"spark": 9, "rarity": 2}],
       "inspiration_id_1": 0,
       "inspiration_id_2": 2
     },
     {
       "id": 2,
-      "name": "Tokai Teio",
-      "sparks": [{"spark": 0, "rarity": 9}, {"spark": 1, "rarity": 9}],
+      "name": "Winning Ticket",
+      "sparks": [{"spark": 15, "rarity": 1}, {"spark": 1, "rarity": 2}, {"spark": 16, "rarity": 2}, {"spark": 17, "rarity": 1}],
       "inspiration_id_1": 0,
       "inspiration_id_2": 1
     }
