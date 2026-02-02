@@ -20,6 +20,13 @@
       "sparks": [{"spark": 15, "rarity": 1}, {"spark": 1, "rarity": 2}, {"spark": 16, "rarity": 2}, {"spark": 17, "rarity": 1}],
       "inspiration_id_1": 0,
       "inspiration_id_2": 1
+    },
+    {
+      "id": 3,
+      "name": "Haru Urara",
+      "sparks": [{"spark": 0, "rarity": 3}, {"spark": 13, "rarity": 2}, {"spark": 14, "rarity": 1}, {"spark": 9, "rarity": 2}],
+      "inspiration_id_1": 0,
+      "inspiration_id_2": 2,
     }
   ]
 }
