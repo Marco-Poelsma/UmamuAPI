@@ -107,6 +107,60 @@
             "name": "Arima Kinen",
             "description": "A Spark that increases Guts and gives a skill hint for \"Nakayama Racecourse O\".",
             "type": "skill"
+        },
+        {
+            "id": 18,
+            "name": "Stamina",
+            "description": "A Spark that increases Stamina.",
+            "type": "stat"
+        },
+        {
+            "id": 20,
+            "name": "Guts",
+            "description": "A Spark that increases Guts.",
+            "type": "stat"
+        },
+        {
+            "id": 21,
+            "name": "Dirt",
+            "description": "A Spark that increases Dirt Aptitude.",
+            "type": "aptitude"
+        },
+        {
+            "id": 22,
+            "name": "Sprint",
+            "description": "A Spark that increases Sprint Aptitude.",
+            "type": "aptitude"
+        },
+        {
+            "id": 23,
+            "name": "Mile",
+            "description": "A Spark that increases Mile Aptitude.",
+            "type": "aptitude"
+        },
+        {
+            "id": 24,
+            "name": "Medium",
+            "description": "A Spark that increases Medium Aptitude.",
+            "type": "aptitude"
+        },
+        {
+            "id": 25,
+            "name": "Front Runner",
+            "description": "A Spark that increases Front Runner Aptitude.",
+            "type": "aptitude"
+        },
+        {
+            "id": 26,
+            "name": "Pace Chaser",
+            "description": "A Spark that increases Pace Chaser Aptitude.",
+            "type": "aptitude"
+        },
+        {
+            "id": 27,
+            "name": "End Closer",
+            "description": "A Spark that increases End Closer Aptitude.",
+            "type": "aptitude"
         }
     ]
 }
