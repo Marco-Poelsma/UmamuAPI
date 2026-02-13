@@ -1,166 +1,34 @@
 {
-    "sparks": [
-        {
-            "id": 0,
-            "name": "Speed",
-            "description": "A Spark that increases Speed.",
-            "type": "stat"
-        },
-        {
-            "id": 1,
-            "name": "Turf",
-            "description": "A Spark that increases Turf Aptitude.",
-            "type": "aptitude"
-        },
-        {
-            "id": 2,
-            "name": "Wit",
-            "description": "A Spark that increases Wit.",
-            "type": "stat"
-        },
-        {
-            "id": 3,
-            "name": "Late Surger",
-            "description": "A Spark that increases Late Surger Aptitude.",
-            "type": "aptitude"
-        },
-        {
-            "id": 4,
-            "name": "Festive Miracle",
-            "description": "A Spark that gives a skill hint for \"Festive Miracle\".",
-            "type": "unique_skill"
-        },
-        {
-            "id": 5,
-            "name": "Osaka Hai",
-            "description": "A Spark that increases Guts and gives a skill hint for \"Standard Distance O\".",
-            "type": "skill"
-        },
-        {
-            "id": 6,
-            "name": "NHK Mile C.",
-            "description": "A Spark that increases Speed and Power.",
-            "type": "skill"
-        },
-        {
-            "id": 7,
-            "name":"Kikuka Sho",
-            "description": "A Spark that increases Stamina and gives a skill hint for \"Kyoto Racecourse O\".",
-            "type": "skill"
-        },
-        {
-            "id": 8,
-            "name": "Hopeful S.",
-            "description": "A Spark that increases Speed and Stamina.",
-            "type": "skill"
-        },
-        {
-            "id": 9,
-            "name": "Corner Adept O",
-            "description": "A Spark that gives a skill hint for \"Corner Adept O\".",
-            "type": "skill"
-        },
-        {
-            "id": 10,
-            "name": "Corner Recovery O",
-            "description": "A Spark that gives a skill hint for \"Corner Recovery O\".",
-            "type": "skill"
-        },
-        {
-            "id": 11,
-            "name": "Deep Breaths",
-            "description": "A Spark that gives a skill hint for \"Deep Breaths\".",
-            "type": "skill"
-        },
-        {
-            "id": 12,
-            "name": "Shake It Out",
-            "description": "A Spark that gives a skill hint for \"Shake It Out\".",
-            "type": "skill"
-        },
-        {
-            "id": 13,
-            "name": "Long",
-            "description": "A Spark that increases Long-Distance Aptitude.",
-            "type": "aptitude"
-        },
-        {
-            "id": 14,
-            "name": "Bountiful Harvest",
-            "description": "A Spark that gives a skill hint for \"Bountiful Harvest\".",
-            "type": "unique_skill"
-        },
-        {
-            "id": 15,
-            "name": "Power",
-            "description": "A Spark that increases Power.",
-            "type": "stat"
-        },
-        {
-            "id": 16,
-            "name": "Our Ticket to Win!",
-            "description": "A Spark that gives a skill hint for \"Our Ticket to Win!\".",
-            "type": "unique_skill"
-        },
-        {
-            "id": 17,
-            "name": "Arima Kinen",
-            "description": "A Spark that increases Guts and gives a skill hint for \"Nakayama Racecourse O\".",
-            "type": "skill"
-        },
-        {
-            "id": 18,
-            "name": "Stamina",
-            "description": "A Spark that increases Stamina.",
-            "type": "stat"
-        },
-        {
-            "id": 20,
-            "name": "Guts",
-            "description": "A Spark that increases Guts.",
-            "type": "stat"
-        },
-        {
-            "id": 21,
-            "name": "Dirt",
-            "description": "A Spark that increases Dirt Aptitude.",
-            "type": "aptitude"
-        },
-        {
-            "id": 22,
-            "name": "Sprint",
-            "description": "A Spark that increases Sprint Aptitude.",
-            "type": "aptitude"
-        },
-        {
-            "id": 23,
-            "name": "Mile",
-            "description": "A Spark that increases Mile Aptitude.",
-            "type": "aptitude"
-        },
-        {
-            "id": 24,
-            "name": "Medium",
-            "description": "A Spark that increases Medium Aptitude.",
-            "type": "aptitude"
-        },
-        {
-            "id": 25,
-            "name": "Front Runner",
-            "description": "A Spark that increases Front Runner Aptitude.",
-            "type": "aptitude"
-        },
-        {
-            "id": 26,
-            "name": "Pace Chaser",
-            "description": "A Spark that increases Pace Chaser Aptitude.",
-            "type": "aptitude"
-        },
-        {
-            "id": 27,
-            "name": "End Closer",
-            "description": "A Spark that increases End Closer Aptitude.",
-            "type": "aptitude"
-        }
-    ]
+  "sparks": [
+    { "id": 0, "name": "Speed", "description": "A Spark that increases Speed.", "type": "stat" },
+    { "id": 1, "name": "Stamina", "description": "A Spark that increases Stamina.", "type": "stat" },
+    { "id": 2, "name": "Power", "description": "A Spark that increases Power.", "type": "stat" },
+    { "id": 3, "name": "Guts", "description": "A Spark that increases Guts.", "type": "stat" },
+    { "id": 4, "name": "Wit", "description": "A Spark that increases Wit.", "type": "stat" },
+
+    { "id": 5, "name": "Turf", "description": "A Spark that increases Turf Aptitude.", "type": "aptitude" },
+    { "id": 6, "name": "Dirt", "description": "A Spark that increases Dirt Aptitude.", "type": "aptitude" },
+    { "id": 7, "name": "Sprint", "description": "A Spark that increases Sprint Aptitude.", "type": "aptitude" },
+    { "id": 8, "name": "Mile", "description": "A Spark that increases Mile Aptitude.", "type": "aptitude" },
+    { "id": 9, "name": "Medium", "description": "A Spark that increases Medium Aptitude.", "type": "aptitude" },
+    { "id": 10, "name": "Long", "description": "A Spark that increases Long-Distance Aptitude.", "type": "aptitude" },
+
+    { "id": 11, "name": "Front Runner", "description": "A Spark that increases Front Runner Aptitude.", "type": "aptitude" },
+    { "id": 12, "name": "Pace Chaser", "description": "A Spark that increases Pace Chaser Aptitude.", "type": "aptitude" },
+    { "id": 13, "name": "Late Surger", "description": "A Spark that increases Late Surger Aptitude.", "type": "aptitude" },
+    { "id": 14, "name": "End Closer", "description": "A Spark that increases End Closer Aptitude.", "type": "aptitude" },
+
+    { "id": 15, "name": "Festive Miracle", "description": "A Spark that gives a skill hint for \"Festive Miracle\".", "type": "unique_skill" },
+    { "id": 16, "name": "Osaka Hai", "description": "A Spark that increases Guts and gives a skill hint for \"Standard Distance O\".", "type": "skill" },
+    { "id": 17, "name": "NHK Mile C.", "description": "A Spark that increases Speed and Power.", "type": "skill" },
+    { "id": 18, "name": "Kikuka Sho", "description": "A Spark that increases Stamina and gives a skill hint for \"Kyoto Racecourse O\".", "type": "skill" },
+    { "id": 19, "name": "Hopeful S.", "description": "A Spark that increases Speed and Stamina.", "type": "skill" },
+    { "id": 20, "name": "Corner Adept O", "description": "A Spark that gives a skill hint for \"Corner Adept O\".", "type": "skill" },
+    { "id": 21, "name": "Corner Recovery O", "description": "A Spark that gives a skill hint for \"Corner Recovery O\".", "type": "skill" },
+    { "id": 22, "name": "Deep Breaths", "description": "A Spark that gives a skill hint for \"Deep Breaths\".", "type": "skill" },
+    { "id": 23, "name": "Shake It Out", "description": "A Spark that gives a skill hint for \"Shake It Out\".", "type": "skill" },
+    { "id": 24, "name": "Bountiful Harvest", "description": "A Spark that gives a skill hint for \"Bountiful Harvest\".", "type": "unique_skill" },
+    { "id": 25, "name": "Our Ticket to Win!", "description": "A Spark that gives a skill hint for \"Our Ticket to Win!\".", "type": "unique_skill" },
+    { "id": 26, "name": "Arima Kinen", "description": "A Spark that increases Guts and gives a skill hint for \"Nakayama Racecourse O\".", "type": "skill" }
+  ]
 }
