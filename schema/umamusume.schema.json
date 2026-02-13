@@ -47,12 +47,6 @@
       "autoIncrement": false,
       "primaryKey": false,
       "nullable": false
-    },
-    "favourite": {
-      "type": "boolean",
-      "autoIncrement": false,
-      "primaryKey": false,
-      "nullable": false
     }
   },
   "required": ["id", "name", "sparks", "inspiration_1", "inspiration_2", "favourite"],
