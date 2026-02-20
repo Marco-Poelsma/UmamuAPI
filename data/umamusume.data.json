@@ -1,32 +1,144 @@
 {
-  "properties": [
+  "properties" : [
     {
-      "id": 0,
-      "name": "Oguri Cap",
-      "sparks": [{"spark": 2, "rarity": 1}, {"spark": 3, "rarity": 2}, {"spark": 4, "rarity": 2}, {"spark": 5, "rarity": 2}, {"spark": 6, "rarity": 1}, {"spark": 7, "rarity": 2}, {"spark": 8, "rarity": 1}, {"spark": 9, "rarity": 2}, {"spark": 10, "rarity": 1}, {"spark": 11, "rarity": 1}, {"spark": 12, "rarity": 2}],
-      "inspiration_id_1": 1,
-      "inspiration_id_2": 2
+      "id" : 0,
+      "inspiration_id_1" : 1,
+      "inspiration_id_2" : 2,
+      "name" : "Oguri Cap",
+      "sparks" : [
+        {
+          "rarity" : 1,
+          "spark" : 2
+        },
+        {
+          "rarity" : 2,
+          "spark" : 3
+        },
+        {
+          "rarity" : 2,
+          "spark" : 4
+        },
+        {
+          "rarity" : 2,
+          "spark" : 5
+        },
+        {
+          "rarity" : 1,
+          "spark" : 6
+        },
+        {
+          "rarity" : 2,
+          "spark" : 7
+        },
+        {
+          "rarity" : 1,
+          "spark" : 8
+        },
+        {
+          "rarity" : 2,
+          "spark" : 9
+        },
+        {
+          "rarity" : 1,
+          "spark" : 10
+        },
+        {
+          "rarity" : 1,
+          "spark" : 11
+        },
+        {
+          "rarity" : 2,
+          "spark" : 12
+        }
+      ]
     },
     {
-      "id": 1,
-      "name": "Matikanefukukitaru",
-      "sparks": [{"spark": 0, "rarity": 3}, {"spark": 13, "rarity": 2}, {"spark": 14, "rarity": 1}, {"spark": 9, "rarity": 2}],
-      "inspiration_id_1": 0,
-      "inspiration_id_2": 2
+      "id" : 2,
+      "inspiration_id_1" : 0,
+      "inspiration_id_2" : 1,
+      "name" : "Winning Ticket",
+      "sparks" : [
+        {
+          "rarity" : 1,
+          "spark" : 15
+        },
+        {
+          "rarity" : 2,
+          "spark" : 1
+        },
+        {
+          "rarity" : 2,
+          "spark" : 16
+        },
+        {
+          "rarity" : 1,
+          "spark" : 17
+        }
+      ]
     },
     {
-      "id": 2,
-      "name": "Winning Ticket",
-      "sparks": [{"spark": 15, "rarity": 1}, {"spark": 1, "rarity": 2}, {"spark": 16, "rarity": 2}, {"spark": 17, "rarity": 1}],
-      "inspiration_id_1": 0,
-      "inspiration_id_2": 1
+      "id" : 1,
+      "inspiration_id_1" : 0,
+      "inspiration_id_2" : 2,
+      "name" : "Matikanefukukitaru",
+      "sparks" : [
+        {
+          "rarity" : 3,
+          "spark" : 0
+        },
+        {
+          "rarity" : 2,
+          "spark" : 13
+        },
+        {
+          "rarity" : 1,
+          "spark" : 14
+        },
+        {
+          "rarity" : 2,
+          "spark" : 9
+        }
+      ]
     },
     {
-      "id": 3,
-      "name": "Haru Urara",
-      "sparks": [{"spark": 0, "rarity": 3}, {"spark": 13, "rarity": 2}, {"spark": 14, "rarity": 1}, {"spark": 9, "rarity": 2}],
-      "inspiration_id_1": 0,
-      "inspiration_id_2": 2,
+      "id" : 3,
+      "inspiration_id_1" : 0,
+      "inspiration_id_2" : 2,
+      "name" : "Haru Urara",
+      "sparks" : [
+        {
+          "rarity" : 3,
+          "spark" : 0
+        },
+        {
+          "rarity" : 2,
+          "spark" : 13
+        },
+        {
+          "rarity" : 1,
+          "spark" : 14
+        },
+        {
+          "rarity" : 2,
+          "spark" : 9
+        }
+      ]
+    },
+    {
+      "id" : 4,
+      "inspiration_id_1" : 0,
+      "inspiration_id_2" : 1,
+      "name" : "Test",
+      "sparks" : [
+        {
+          "rarity" : 2,
+          "spark" : 0
+        },
+        {
+          "rarity" : 1,
+          "spark" : 5
+        }
+      ]
     }
   ]
 }
