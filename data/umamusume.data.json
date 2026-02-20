@@ -78,13 +78,25 @@
     },
     {
       "id" : 5,
-      "inspiration_id_1" : 3,
+      "inspiration_id_1" : 0,
       "inspiration_id_2" : 4,
-      "name" : "AmoSwift",
+      "name" : "Bichota Curiosa",
       "sparks" : [
         {
           "rarity" : 1,
-          "spark" : 23
+          "spark" : 0
+        },
+        {
+          "rarity" : 2,
+          "spark" : 15
+        },
+        {
+          "rarity" : 3,
+          "spark" : 22
+        },
+        {
+          "rarity" : 3,
+          "spark" : 20
         },
         {
           "rarity" : 1,
@@ -92,19 +104,11 @@
         },
         {
           "rarity" : 1,
-          "spark" : 26
-        },
-        {
-          "rarity" : 1,
-          "spark" : 1
+          "spark" : 25
         },
         {
           "rarity" : 1,
           "spark" : 24
-        },
-        {
-          "rarity" : 2,
-          "spark" : 25
         }
       ]
     },
