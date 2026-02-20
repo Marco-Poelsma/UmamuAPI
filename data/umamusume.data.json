@@ -159,6 +159,22 @@
           "spark" : 9
         }
       ]
+    },
+    {
+      "id" : 6,
+      "inspiration_id_1" : 2,
+      "inspiration_id_2" : 3,
+      "name" : "Solo un add",
+      "sparks" : [
+        {
+          "rarity" : 1,
+          "spark" : 1
+        },
+        {
+          "rarity" : 2,
+          "spark" : 5
+        }
+      ]
     }
   ]
 }
