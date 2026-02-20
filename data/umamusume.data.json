@@ -161,6 +161,22 @@
       ]
     },
     {
+      "id" : 7,
+      "inspiration_id_1" : 5,
+      "inspiration_id_2" : 1,
+      "name" : "Link marrano",
+      "sparks" : [
+        {
+          "rarity" : 1,
+          "spark" : 5
+        },
+        {
+          "rarity" : 3,
+          "spark" : 0
+        }
+      ]
+    },
+    {
       "id" : 6,
       "inspiration_id_1" : 2,
       "inspiration_id_2" : 3,
