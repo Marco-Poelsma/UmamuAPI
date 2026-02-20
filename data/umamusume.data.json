@@ -129,22 +129,6 @@
       ]
     },
     {
-      "id" : 9,
-      "inspiration_id_1" : 1,
-      "inspiration_id_2" : 3,
-      "name" : "Bichota1919",
-      "sparks" : [
-        {
-          "rarity" : 1,
-          "spark" : 1
-        },
-        {
-          "rarity" : 1,
-          "spark" : 5
-        }
-      ]
-    },
-    {
       "id" : 1,
       "inspiration_id_1" : 0,
       "inspiration_id_2" : 2,
@@ -221,6 +205,30 @@
         {
           "rarity" : 3,
           "spark" : 5
+        }
+      ]
+    },
+    {
+      "id" : 9,
+      "inspiration_id_1" : 2,
+      "inspiration_id_2" : 1,
+      "name" : "Nueva nueva nueva nueva bicha",
+      "sparks" : [
+        {
+          "rarity" : 1,
+          "spark" : 26
+        },
+        {
+          "rarity" : 2,
+          "spark" : 24
+        },
+        {
+          "rarity" : 1,
+          "spark" : 4
+        },
+        {
+          "rarity" : 1,
+          "spark" : 6
         }
       ]
     }
