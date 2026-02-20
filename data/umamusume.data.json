@@ -113,6 +113,26 @@
       ]
     },
     {
+      "id" : 6,
+      "inspiration_id_1" : 0,
+      "inspiration_id_2" : 3,
+      "name" : "Dcs",
+      "sparks" : [
+        {
+          "rarity" : 2,
+          "spark" : 1
+        },
+        {
+          "rarity" : 1,
+          "spark" : 6
+        },
+        {
+          "rarity" : 3,
+          "spark" : 19
+        }
+      ]
+    },
+    {
       "id" : 1,
       "inspiration_id_1" : 0,
       "inspiration_id_2" : 2,
