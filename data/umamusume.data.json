@@ -77,6 +77,38 @@
       ]
     },
     {
+      "id" : 5,
+      "inspiration_id_1" : 3,
+      "inspiration_id_2" : 4,
+      "name" : "AmoSwift",
+      "sparks" : [
+        {
+          "rarity" : 1,
+          "spark" : 23
+        },
+        {
+          "rarity" : 1,
+          "spark" : 6
+        },
+        {
+          "rarity" : 1,
+          "spark" : 26
+        },
+        {
+          "rarity" : 1,
+          "spark" : 1
+        },
+        {
+          "rarity" : 1,
+          "spark" : 24
+        },
+        {
+          "rarity" : 2,
+          "spark" : 25
+        }
+      ]
+    },
+    {
       "id" : 1,
       "inspiration_id_1" : 0,
       "inspiration_id_2" : 2,
@@ -137,22 +169,6 @@
         {
           "rarity" : 1,
           "spark" : 0
-        }
-      ]
-    },
-    {
-      "id" : 5,
-      "inspiration_id_1" : 0,
-      "inspiration_id_2" : 2,
-      "name" : "Test",
-      "sparks" : [
-        {
-          "rarity" : 3,
-          "spark" : 0
-        },
-        {
-          "rarity" : 1,
-          "spark" : 5
         }
       ]
     }
