@@ -1,6 +1,58 @@
 {
   "properties" : [
     {
+      "id" : 5,
+      "inspiration_id_1" : 0,
+      "inspiration_id_2" : 4,
+      "name" : "Bichota Curiosa",
+      "sparks" : [
+        {
+          "rarity" : 1,
+          "spark" : 0
+        },
+        {
+          "rarity" : 2,
+          "spark" : 15
+        },
+        {
+          "rarity" : 3,
+          "spark" : 22
+        },
+        {
+          "rarity" : 3,
+          "spark" : 20
+        },
+        {
+          "rarity" : 1,
+          "spark" : 6
+        },
+        {
+          "rarity" : 1,
+          "spark" : 25
+        },
+        {
+          "rarity" : 1,
+          "spark" : 24
+        }
+      ]
+    },
+    {
+      "id" : 7,
+      "inspiration_id_1" : 5,
+      "inspiration_id_2" : 1,
+      "name" : "Link marrano",
+      "sparks" : [
+        {
+          "rarity" : 1,
+          "spark" : 5
+        },
+        {
+          "rarity" : 3,
+          "spark" : 0
+        }
+      ]
+    },
+    {
       "id" : 0,
       "inspiration_id_1" : 1,
       "inspiration_id_2" : 2,
@@ -77,54 +129,42 @@
       ]
     },
     {
-      "id" : 5,
+      "id" : 3,
       "inspiration_id_1" : 0,
-      "inspiration_id_2" : 4,
-      "name" : "Bichota Curiosa",
+      "inspiration_id_2" : 2,
+      "name" : "Haru Urara",
       "sparks" : [
         {
-          "rarity" : 1,
+          "rarity" : 3,
           "spark" : 0
         },
         {
           "rarity" : 2,
-          "spark" : 15
-        },
-        {
-          "rarity" : 3,
-          "spark" : 22
-        },
-        {
-          "rarity" : 3,
-          "spark" : 20
+          "spark" : 13
         },
         {
           "rarity" : 1,
-          "spark" : 6
+          "spark" : 14
         },
         {
-          "rarity" : 1,
-          "spark" : 25
-        },
-        {
-          "rarity" : 1,
-          "spark" : 24
+          "rarity" : 2,
+          "spark" : 9
         }
       ]
     },
     {
-      "id" : 7,
-      "inspiration_id_1" : 5,
-      "inspiration_id_2" : 1,
-      "name" : "Link marrano",
+      "id" : 8,
+      "inspiration_id_1" : 0,
+      "inspiration_id_2" : 5,
+      "name" : "La nueva nueva nueva bicha",
       "sparks" : [
         {
           "rarity" : 1,
-          "spark" : 5
+          "spark" : 2
         },
         {
           "rarity" : 3,
-          "spark" : 0
+          "spark" : 5
         }
       ]
     },
@@ -153,62 +193,6 @@
       ]
     },
     {
-      "id" : 3,
-      "inspiration_id_1" : 0,
-      "inspiration_id_2" : 2,
-      "name" : "Haru Urara",
-      "sparks" : [
-        {
-          "rarity" : 3,
-          "spark" : 0
-        },
-        {
-          "rarity" : 2,
-          "spark" : 13
-        },
-        {
-          "rarity" : 1,
-          "spark" : 14
-        },
-        {
-          "rarity" : 2,
-          "spark" : 9
-        }
-      ]
-    },
-    {
-      "id" : 6,
-      "inspiration_id_1" : 2,
-      "inspiration_id_2" : 3,
-      "name" : "Solo un add",
-      "sparks" : [
-        {
-          "rarity" : 1,
-          "spark" : 1
-        },
-        {
-          "rarity" : 2,
-          "spark" : 5
-        }
-      ]
-    },
-    {
-      "id" : 8,
-      "inspiration_id_1" : 0,
-      "inspiration_id_2" : 5,
-      "name" : "La nueva nueva nueva bicha",
-      "sparks" : [
-        {
-          "rarity" : 1,
-          "spark" : 2
-        },
-        {
-          "rarity" : 3,
-          "spark" : 5
-        }
-      ]
-    },
-    {
       "id" : 9,
       "inspiration_id_1" : 2,
       "inspiration_id_2" : 1,
@@ -229,6 +213,22 @@
         {
           "rarity" : 1,
           "spark" : 6
+        }
+      ]
+    },
+    {
+      "id" : 6,
+      "inspiration_id_1" : 2,
+      "inspiration_id_2" : 3,
+      "name" : "Solo un add",
+      "sparks" : [
+        {
+          "rarity" : 1,
+          "spark" : 1
+        },
+        {
+          "rarity" : 2,
+          "spark" : 5
         }
       ]
     },
