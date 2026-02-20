@@ -231,6 +231,34 @@
           "spark" : 6
         }
       ]
+    },
+    {
+      "id" : 10,
+      "inspiration_id_1" : 0,
+      "inspiration_id_2" : 1,
+      "name" : "Tokai Teio",
+      "sparks" : [
+        {
+          "rarity" : 2,
+          "spark" : 5
+        },
+        {
+          "rarity" : 3,
+          "spark" : 0
+        },
+        {
+          "rarity" : 3,
+          "spark" : 21
+        },
+        {
+          "rarity" : 1,
+          "spark" : 15
+        },
+        {
+          "rarity" : 3,
+          "spark" : 20
+        }
+      ]
     }
   ]
 }
