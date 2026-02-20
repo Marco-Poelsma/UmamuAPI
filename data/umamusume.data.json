@@ -1,42 +1,6 @@
 {
   "properties" : [
     {
-      "id" : 5,
-      "inspiration_id_1" : 0,
-      "inspiration_id_2" : 4,
-      "name" : "Bichota Curiosa",
-      "sparks" : [
-        {
-          "rarity" : 1,
-          "spark" : 0
-        },
-        {
-          "rarity" : 2,
-          "spark" : 15
-        },
-        {
-          "rarity" : 3,
-          "spark" : 22
-        },
-        {
-          "rarity" : 3,
-          "spark" : 20
-        },
-        {
-          "rarity" : 1,
-          "spark" : 6
-        },
-        {
-          "rarity" : 1,
-          "spark" : 25
-        },
-        {
-          "rarity" : 1,
-          "spark" : 24
-        }
-      ]
-    },
-    {
       "id" : 0,
       "inspiration_id_1" : 1,
       "inspiration_id_2" : 2,
@@ -113,26 +77,38 @@
       ]
     },
     {
-      "id" : 3,
+      "id" : 5,
       "inspiration_id_1" : 0,
-      "inspiration_id_2" : 2,
-      "name" : "Haru Urara",
+      "inspiration_id_2" : 4,
+      "name" : "Bichota Curiosa",
       "sparks" : [
         {
-          "rarity" : 3,
+          "rarity" : 1,
           "spark" : 0
         },
         {
           "rarity" : 2,
-          "spark" : 13
+          "spark" : 15
+        },
+        {
+          "rarity" : 3,
+          "spark" : 22
+        },
+        {
+          "rarity" : 3,
+          "spark" : 20
         },
         {
           "rarity" : 1,
-          "spark" : 14
+          "spark" : 6
         },
         {
-          "rarity" : 2,
-          "spark" : 9
+          "rarity" : 1,
+          "spark" : 25
+        },
+        {
+          "rarity" : 1,
+          "spark" : 24
         }
       ]
     },
@@ -161,18 +137,26 @@
       ]
     },
     {
-      "id" : 4,
+      "id" : 3,
       "inspiration_id_1" : 0,
       "inspiration_id_2" : 2,
-      "name" : "Test",
+      "name" : "Haru Urara",
       "sparks" : [
         {
+          "rarity" : 3,
+          "spark" : 0
+        },
+        {
           "rarity" : 2,
-          "spark" : 5
+          "spark" : 13
         },
         {
           "rarity" : 1,
-          "spark" : 0
+          "spark" : 14
+        },
+        {
+          "rarity" : 2,
+          "spark" : 9
         }
       ]
     }
