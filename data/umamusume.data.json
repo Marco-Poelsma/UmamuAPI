@@ -195,6 +195,34 @@
           "spark" : 0
         }
       ]
+    },
+    {
+      "id" : 7,
+      "inspiration_id_1" : 5,
+      "inspiration_id_2" : 6,
+      "name" : "The new bichota",
+      "sparks" : [
+        {
+          "rarity" : 1,
+          "spark" : 26
+        },
+        {
+          "rarity" : 1,
+          "spark" : 10
+        },
+        {
+          "rarity" : 3,
+          "spark" : 23
+        },
+        {
+          "rarity" : 3,
+          "spark" : 24
+        },
+        {
+          "rarity" : 1,
+          "spark" : 4
+        }
+      ]
     }
   ]
 }
