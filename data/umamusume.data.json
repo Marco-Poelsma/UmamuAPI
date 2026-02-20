@@ -139,6 +139,22 @@
           "spark" : 0
         }
       ]
+    },
+    {
+      "id" : 5,
+      "inspiration_id_1" : 0,
+      "inspiration_id_2" : 2,
+      "name" : "Test",
+      "sparks" : [
+        {
+          "rarity" : 3,
+          "spark" : 0
+        },
+        {
+          "rarity" : 1,
+          "spark" : 5
+        }
+      ]
     }
   ]
 }
